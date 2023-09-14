@@ -16,3 +16,5 @@ Commands I learnt today:
 6. git log
 7. git restore --staged <fileName>
 
+A
+
