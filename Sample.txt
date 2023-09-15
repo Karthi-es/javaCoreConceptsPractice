@@ -1,6 +1,5 @@
+This is your new branch. All old data are on master branch only.
 My Git Learning Started.
-
-
 Day 1 I learnt is:
 1. Git basic workflow
 2. How to install and initialize git into your project working folder.
